@@ -1,0 +1,22 @@
+{
+  "name": "gun-relay",
+  "version": "1.0.0",
+  "description": "https://github.com/amark/gun/blob/master/examples/http.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majway27/gun-relay.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/majway27/gun-relay/issues"
+  },
+  "homepage": "https://github.com/majway27/gun-relay#readme",
+  "dependencies": {
+    "gun": "^0.2020.1237"
+  }
+}
